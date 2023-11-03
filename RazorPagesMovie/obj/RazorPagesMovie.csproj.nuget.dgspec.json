@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/justingrubbs/DatabasesAndWebSystems/RazorPagesMovie/RazorPagesMovie.csproj": {}
+    "C:\\Users\\Justi\\Desktop\\School Documents\\Databases and Web Systems\\csci340lab8\\RazorPagesMovie\\RazorPagesMovie.csproj": {}
   },
   "projects": {
-    "/Users/justingrubbs/DatabasesAndWebSystems/RazorPagesMovie/RazorPagesMovie.csproj": {
+    "C:\\Users\\Justi\\Desktop\\School Documents\\Databases and Web Systems\\csci340lab8\\RazorPagesMovie\\RazorPagesMovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/justingrubbs/DatabasesAndWebSystems/RazorPagesMovie/RazorPagesMovie.csproj",
+        "projectUniqueName": "C:\\Users\\Justi\\Desktop\\School Documents\\Databases and Web Systems\\csci340lab8\\RazorPagesMovie\\RazorPagesMovie.csproj",
         "projectName": "RazorPagesMovie",
-        "projectPath": "/Users/justingrubbs/DatabasesAndWebSystems/RazorPagesMovie/RazorPagesMovie.csproj",
-        "packagesPath": "/Users/justingrubbs/.nuget/packages/",
-        "outputPath": "/Users/justingrubbs/DatabasesAndWebSystems/RazorPagesMovie/obj/",
+        "projectPath": "C:\\Users\\Justi\\Desktop\\School Documents\\Databases and Web Systems\\csci340lab8\\RazorPagesMovie\\RazorPagesMovie.csproj",
+        "packagesPath": "C:\\Users\\Justi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Justi\\Desktop\\School Documents\\Databases and Web Systems\\csci340lab8\\RazorPagesMovie\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/justingrubbs/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Justi\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -82,7 +82,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.401/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
